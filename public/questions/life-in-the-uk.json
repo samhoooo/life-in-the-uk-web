@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "questionText": "What is the capital of UK?",
+    "answers": ["London", "Paris", "New York", "Berlin"],
+    "correctAnswer": "London",
+    "category": "Geography"
+  },
+  {
+    "id": 2,
+    "questionText": "When is Saint George's Day celebrated?",
+    "answers": ["23rd April", "1st May", "17th March", "30th November"],
+    "correctAnswer": "23rd April",
+    "category": "History and Culture"
+  },
+  {
+    "id": 3,
+    "questionText": "Who is the patron saint of Scotland?",
+    "answers": ["Saint Andrew", "Saint George", "Saint David", "Saint Patrick"],
+    "correctAnswer": "Saint Andrew",
+    "category": "History and Culture"
+  },
+  {
+    "id": 4,
+    "questionText": "What is the UK's form of government?",
+    "answers": [
+      "Constitutional Monarchy",
+      "Absolute Monarchy",
+      "Republic",
+      "Dictatorship"
+    ],
+    "correctAnswer": "Constitutional Monarchy",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 5,
+    "questionText": "Which famous document, signed in 1215, is known as the foundation of constitutional law?",
+    "answers": [
+      "Magna Carta",
+      "Declaration of Independence",
+      "Treaty of Versailles",
+      "Bill of Rights"
+    ],
+    "correctAnswer": "Magna Carta",
+    "category": "History and Culture"
+  },
+  {
+    "id": 6,
+    "questionText": "Who is the current monarch of the UK as of May 2023?",
+    "answers": [
+      "Queen Elizabeth II",
+      "King Charles III",
+      "King William V",
+      "Queen Victoria"
+    ],
+    "correctAnswer": "King Charles III",
+    "category": "History and Culture"
+  },
+  {
+    "id": 7,
+    "questionText": "What is the official language of the UK?",
+    "answers": ["English", "Spanish", "German", "French"],
+    "correctAnswer": "English",
+    "category": "History and Culture"
+  },
+  {
+    "id": 8,
+    "questionText": "Which monarch has been on the throne the longest in the UK?",
+    "answers": [
+      "Queen Elizabeth II",
+      "Queen Victoria",
+      "King George III",
+      "King Henry VIII"
+    ],
+    "correctAnswer": "Queen Elizabeth II",
+    "category": "History and Culture"
+  },
+  {
+    "id": 9,
+    "questionText": "In what year did The Bill of Rights come into effect?",
+    "answers": ["1589", "1689", "1789", "1889"],
+    "correctAnswer": "1689",
+    "category": "History and Culture"
+  },
+  {
+    "id": 10,
+    "questionText": "What is the currency used in the UK?",
+    "answers": ["Pound Sterling", "Euro", "Dollar", "Yen"],
+    "correctAnswer": "Pound Sterling",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 11,
+    "questionText": "What is the national flower of the UK?",
+    "answers": ["Rose", "Lily", "Daisy", "Tulip"],
+    "correctAnswer": "Rose",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 12,
+    "questionText": "What is the name of the famous bell in the clock tower of the Palace of Westminster?",
+    "answers": ["Big Ben", "Little Ben", "Westminster Bell", "Palace Bell"],
+    "correctAnswer": "Big Ben",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 13,
+    "questionText": "What is the name of the river that flows through London?",
+    "answers": ["Thames", "Seine", "Danube", "Rhine"],
+    "correctAnswer": "Thames",
+    "category": "Geography"
+  },
+  {
+    "id": 14,
+    "questionText": "What is the name of the UK's national anthem?",
+    "answers": [
+      "God Save the Queen",
+      "Rule Britannia",
+      "Land of Hope and Glory",
+      "Jerusalem"
+    ],
+    "correctAnswer": "God Save the Queen",
+    "category": "History and Culture"
+  },
+  {
+    "id": 15,
+    "questionText": "Who is the patron saint of Scotland?",
+    "answers": ["St. Andrew", "St. George", "St. David", "St. Patrick"],
+    "correctAnswer": "St. Andrew",
+    "category": "History and Culture"
+  },
+  {
+    "id": 16,
+    "questionText": "Who is the patron saint of Wales?",
+    "answers": ["St. David", "St. George", "St. Andrew", "St. Patrick"],
+    "correctAnswer": "St. David",
+    "category": "History and Culture"
+  },
+  {
+    "id": 17,
+    "questionText": "What is the name of the UK's flag?",
+    "answers": ["Union Jack", "Stars and Stripes", "Tricolour", "Maple Leaf"],
+    "correctAnswer": "Union Jack",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 18,
+    "questionText": "What is the name of the famous university in Cambridge?",
+    "answers": [
+      "Cambridge University",
+      "Oxford University",
+      "Harvard University",
+      "Yale University"
+    ],
+    "correctAnswer": "Cambridge University",
+    "category": "Geography"
+  },
+  {
+    "id": 19,
+    "questionText": "What is the name of the famous university in Oxford?",
+    "answers": [
+      "Oxford University",
+      "Cambridge University",
+      "Harvard University",
+      "Yale University"
+    ],
+    "correctAnswer": "Oxford University",
+    "category": "Geography"
+  },
+  {
+    "id": 20,
+    "questionText": "What is the name of the famous palace in London?",
+    "answers": [
+      "Buckingham Palace",
+      "Kensington Palace",
+      "Windsor Castle",
+      "Hampton Court Palace"
+    ],
+    "correctAnswer": "Buckingham Palace",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 21,
+    "questionText": "What is the name of the UK's national animal?",
+    "answers": ["Unicorn", "Lion", "Horse", "Dragon"],
+    "correctAnswer": "Unicorn",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 22,
+    "questionText": "Who wrote the famous novel 'Pride and Prejudice'?",
+    "answers": [
+      "Jane Austen",
+      "Emily Bronte",
+      "Charlotte Bronte",
+      "Virginia Woolf"
+    ],
+    "correctAnswer": "Jane Austen",
+    "category": "History and Culture"
+  },
+  {
+    "id": 23,
+    "questionText": "What is the name of the famous London Eye?",
+    "answers": [
+      "Millennium Wheel",
+      "Giant Ferris Wheel",
+      "Tower Wheel",
+      "Roundabout Wheel"
+    ],
+    "correctAnswer": "Millennium Wheel",
+    "category": "Geography"
+  },
+  {
+    "id": 24,
+    "questionText": "What is the name of the famous river that runs through Edinburgh?",
+    "answers": ["Water of Leith", "River Clyde", "River Tay", "River Dee"],
+    "correctAnswer": "Water of Leith",
+    "category": "Geography"
+  },
+  {
+    "id": 25,
+    "questionText": "What is the name of the famous prehistoric monument in Wiltshire?",
+    "answers": [
+      "Stonehenge",
+      "Avebury",
+      "Silbury Hill",
+      "West Kennet Long Barrow"
+    ],
+    "correctAnswer": "Stonehenge",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 26,
+    "questionText": "What is the name of the famous art museum in London?",
+    "answers": [
+      "Tate Modern",
+      "National Gallery",
+      "British Museum",
+      "Victoria and Albert Museum"
+    ],
+    "correctAnswer": "National Gallery",
+    "category": "Geography"
+  },
+  {
+    "id": 27,
+    "questionText": "What is the name of the famous war memorial in London?",
+    "answers": [
+      "Cenotaph",
+      "Tower of London",
+      "Westminster Abbey",
+      "St. Paul's Cathedral"
+    ],
+    "correctAnswer": "Cenotaph",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 28,
+    "questionText": "What is the name of the famous festival held in Edinburgh every summer?",
+    "answers": [
+      "Edinburgh Festival Fringe",
+      "Glastonbury Festival",
+      "Reading Festival",
+      "Leeds Festival"
+    ],
+    "correctAnswer": "Edinburgh Festival Fringe",
+    "category": "History and Culture"
+  },
+  {
+    "id": 29,
+    "questionText": "What is the name of the famous lake in the Lake District National Park?",
+    "answers": ["Windermere", "Ullswater", "Derwentwater", "Coniston Water"],
+    "correctAnswer": "Windermere",
+    "category": "Geography"
+  },
+  {
+    "id": 30,
+    "questionText": "MPs are elected at a General Election which is held:",
+    "answers": [
+      "every 3 years",
+      "every 4 years",
+      "every 5 years",
+      "every 6 years"
+    ],
+    "correctAnswer": "every 5 years",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 31,
+    "questionText": "MPs can only be contacted by telephone. Is this true or false?",
+    "answers": ["True", "False"],
+    "correctAnswer": "False",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 32,
+    "questionText": "1918 was an important date in the history of women’s rights because:",
+    "answers": [
+      "Women earned the right to equal pay at work.",
+      "Women were allowed to buy property.",
+      "Women were allowed to drive a car.",
+      "Women were given the right to vote."
+    ],
+    "correctAnswer": "Women were given the right to vote.",
+    "category": "History and Culture"
+  },
+  {
+    "id": 33,
+    "questionText": "A 'bank holiday' is a public holiday when only banks close for the day. Is this true or false?",
+    "answers": ["True", "False"],
+    "correctAnswer": "False",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 34,
+    "questionText": "A 'council' is a group of people who are elected to govern an area. Is this true or false?",
+    "answers": ["True", "False"],
+    "correctAnswer": "True",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 35,
+    "questionText": "One of the aims of the United Nations is to:",
+    "answers": [
+      "Promote free trade.",
+      "Ensure people learn English.",
+      "Protect Wildlife across the EU.",
+      "Promote international peace and security."
+    ],
+    "correctAnswer": "Promote international peace and security.",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 36,
+    "questionText": "The Channel Islands and the Isle of Man are part of the UK. Is this true or false?",
+    "answers": ["True", "False"],
+    "correctAnswer": "False",
+    "category": "Geography"
+  },
+  {
+    "id": 37,
+    "questionText": "'Great Britain' refers to:",
+    "answers": [
+      "England and Scotland",
+      "England and Wales",
+      "England, Wales and Scotland",
+      "England, Wales, Scotland and Northern Ireland"
+    ],
+    "correctAnswer": "England, Wales and Scotland",
+    "category": "Geography"
+  },
+  {
+    "id": 38,
+    "questionText": "England, Wales, Scotland and Northern Ireland are governed only by the parliament in Westminster.Is this true or false?",
+    "answers": ["True", "False"],
+    "correctAnswer": "False",
+    "category": "Government and Politics"
+  },
+  {
+    "id": 39,
+    "questionText": "Which flower is associated with Northern Ireland?",
+    "answers": ["Tulips", "Daisy", "Shamrock", "Poppy"],
+    "correctAnswer": "Shamrock",
+    "category": "Symbols and Monuments"
+  },
+  {
+    "id": 40,
+    "questionText": "Which flower is associated with Scotland?",
+    "answers": ["Tulips", "Daisy", "Shamrock", "Thistle"],
+    "correctAnswer": "Thistle",
+    "category": "Symbols and Monuments"
+  }
+]
