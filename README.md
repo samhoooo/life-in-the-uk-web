@@ -2,9 +2,8 @@
 
 Demo: http://life-in-the-uk-test.s3-website.ap-east-1.amazonaws.com/
 
-<img src="https://github.com/samhoooo/life-in-the-uk-web/assets/19681625/cbeac128-962d-4b01-96b6-d09e0fa4aa8c" width="300"/>
-<img src="https://github.com/samhoooo/life-in-the-uk-web/assets/19681625/c1cd75bc-bce8-49e3-afef-ebce2a7d892e" width="300"/>
-
+<img src="https://github.com/samhoooo/life-in-the-uk-web/assets/19681625/3c6cf6ba-4ffe-4abe-a65e-6a661da5640f" width="300"/>
+<img src="https://github.com/samhoooo/life-in-the-uk-web/assets/19681625/ada339f5-c18e-43f5-a1b0-24a98070471e" width="300"/>
 
 
 ## Available Scripts
